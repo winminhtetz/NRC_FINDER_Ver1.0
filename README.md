@@ -1,16 +1,3 @@
-# nrc_finder
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# NRC_Finder_v1.0
+NRC Finder v1.0 is an android app which can easily search the name of the state and number provided on the Myanmar Nationality ID Card, NRC.
+Offline app and added 326 items. There is also a new version, NRC Finder v1.1, a web app, which can be accessed through this link [ http://nrc-finder.pages.dev/ ] 
